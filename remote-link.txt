@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://syntax-path-updates-cause.trycloudflare.com/vnc.html
+URL       : https://gel-randy-everywhere-allocation.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-09-01 02:34:49
+Created   : 2026-09-01 09:42:23
 =======================================================
