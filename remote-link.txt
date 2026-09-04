@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://briefly-willing-metro-picture.trycloudflare.com/vnc.html
+URL       : https://clouds-cute-recorders-lows.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-09-04 13:54:35
+Created   : 2026-09-04 17:57:28
 =======================================================
