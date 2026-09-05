@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://wow-mercury-dayton-purchase.trycloudflare.com/vnc.html
+URL       : https://municipality-inform-drugs-sorts.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-09-05 08:45:43
+Created   : 2026-09-05 13:08:46
 =======================================================
