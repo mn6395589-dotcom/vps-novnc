@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://closely-element-reporting-classified.trycloudflare.com/vnc.html
+URL       : https://kansas-combination-instructor-narrative.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-09-18 18:00:59
+Created   : 2026-09-18 22:06:06
 =======================================================
